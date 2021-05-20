@@ -1,6 +1,6 @@
 # Furniture App - Responsive Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/8uLI8ade1aA)
+## [Watch it on YouTube](https://youtu.be/POYluJ6mrFo)
 
 - [x] Responsive UI
 - [x] Fetch Data From API
